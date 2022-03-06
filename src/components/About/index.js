@@ -7,18 +7,18 @@ function About () {
                 <h1 className="page-header">About Me</h1>
             </div>
             <div className="center">
-                {/* <img
-                src={require('../../assets.images/headshot.jpg')}
+                <img
+                src={require('../../assets/images/headshot.jpg')}
                 alt="headshot"
                 className="photo"
                 >
-                </img> */}
+                </img>
             </div>
-            <about>
+            <section>
                 <p>
                     This section is about me. Words go here. Lots of words.
                 </p>
-            </about>
+            </section>
         </section>
     );
 }
