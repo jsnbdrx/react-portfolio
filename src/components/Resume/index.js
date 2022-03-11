@@ -8,11 +8,11 @@ function Resume() {
 			</div>
 			<div className="bottom-spacing">
 				<a href={require("../../assets/files/Resume.docx.pdf")} download>
-					<h4>Download Resume Here</h4>
+					<h4>Click Here to Download Resume</h4>
 				</a>
 			</div>
 			<div>
-				<h5>Front-End Proficiencies</h5>
+				<h5>Front-End Technologies</h5>
 				<ol>
 					<li>HTML</li>
 					<li>CSS</li>
@@ -20,11 +20,9 @@ function Resume() {
 					<li>jQuery</li>
 					<li>Bootstrap</li>
 					<li>React</li>
-					<li>Git/GitHub</li> 
-					<li>responsive design</li>
 				</ol>
 				<br></br>
-				<h5>Back-End Proficiencies</h5>
+				<h5>Back-End Technologies</h5>
 				<ol>
 					<li>APIs</li>
 					<li>Node</li>
@@ -34,15 +32,14 @@ function Resume() {
 					<li>Progressive Web Applications (PWA)</li>
 				</ol>
 				<br></br>
-				<h5>Dev Tool Proficiencies</h5>
+				<h5>Dev Tool Technologies</h5>
 				<ol>
 					<li>Git</li>
-					<li>npm</li>
 					<li>Jest</li>
 					<li>Webpack</li>
 				</ol>
 				<br></br>
-				<h5>Database Proficiencies</h5>
+				<h5>Database Technologies</h5>
 				<ol>
 					<li>MySQL</li>
 					<li>Sequelize</li>
