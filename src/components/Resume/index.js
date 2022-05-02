@@ -28,7 +28,7 @@ function Resume() {
 					<li>Node</li>
 					<li>Express</li>
 					<li>Model View Controller (MVC)</li>
-					<li>REST</li>
+					<li>RESTful APIs</li>
 					<li>Progressive Web Applications (PWA)</li>
 				</ol>
 				<br></br>
