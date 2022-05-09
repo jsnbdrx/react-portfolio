@@ -51,9 +51,9 @@ function Contact() {
 				<h2 className="page-header">Contact Me</h2>
 			</div>
 			<div>
-				Email me directly at js.bdrx@gmail.com or feel free fill out the form below.
+				Email me directly at js.bdrx@gmail.com
 			</div>
-			<div>
+			{/* <div>
 				<form id="contact-form">
 					<div>
 						<label htmlFor="Name">Name:</label>
@@ -92,7 +92,7 @@ function Contact() {
 					)}
 					<button type="submit">Submit</button>
 				</form>
-			</div>
+			</div> */}
 		</section>
 	);
 }
