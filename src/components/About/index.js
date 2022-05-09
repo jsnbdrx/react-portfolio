@@ -16,7 +16,7 @@ function About() {
             </div>
             <section>
                 <p>
-                    I am currently a student at the SMU Full Stack Web Development Boot Camp.
+                    Full stack web developer with a certificate earned from Southern Methodist University’s Coding Boot Camp. Learned technologies such as HTML, CSS, JavaScript, React, Express, Node, and others. Experienced in working with a team in both technical and non technical roles. Excited to learn more and improve my skills. My ability to problem solve, experience in being a team player, and hunger to learn more, make me an excellent addition to any team.
                 </p>
                 <p>
                     Before I got into coding, I worked a few jobs that didn't seem to be going anywhere. I wasn't sure what it was that I wanted to do. From working as a Direct Support Professional in a group home to Customer Service for a makeup company to a Shipping Operator for a fragrance company, It seemed like I was stuck in a rut and wasn't going to be getting out. When speaking with my wife about not being happy with my work situation, my mind went back to a close friend of mine that wanted to convince me to learn to code years back. I heeded his advice and started to learn.
