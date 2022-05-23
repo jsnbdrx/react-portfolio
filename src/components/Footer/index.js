@@ -18,7 +18,7 @@ function Footer() {
             </div>
             <div>
                 <a
-                    href="https://www.linkedin.com/in/jason-boudreaux-8211b7222/"
+                    href="https://www.linkedin.com/in/jsnbdrx/"
                     terget="blank"
                     rel="noopener noreferrer"
                 >
